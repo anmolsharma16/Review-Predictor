@@ -19,5 +19,5 @@ The aim of this project is to predict average_rating using the other columns. Si
 ![Capture](https://user-images.githubusercontent.com/60782798/118253971-2f013800-b4c8-11eb-984b-ba442f831892.PNG)
 
 
-After using Linear Regression model, I found out that the Mean Squared Error(MSE)=2.078 which is greater than 0, making a Linear model unfit for this prediction, hence we tried the Random Forest Regressor, which was eventually generating prediction value close to the actual values by a tiny fraction.
+After using Linear Regression model, we found out that the Mean Squared Error(MSE)=2.078 which is greater than 0, making a Linear model unfit for this prediction, hence we tried the Random Forest Regressor, which was eventually generating prediction value close to the actual values by a tiny fraction.
 
